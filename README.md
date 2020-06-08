@@ -2,6 +2,15 @@
 
 Back-end Code to handle client request.
 
+# Modules
+```bash
+1. [Server Side](https://github.com/Shubzz-02/Wire-backend.git) 
+
+2. [Parent App](https://github.com/Shubzz-02/Wire-Parent.git)
+
+3. [Child App](https://github.com/Shubzz-02/Wire-Android.git)
+```
+
 ## Prerequisite
 
 ```bash
